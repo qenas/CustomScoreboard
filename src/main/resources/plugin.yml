@@ -1,0 +1,4 @@
+name: CustomScoreboard
+version: '1.0-SNAPSHOT'
+main: org.khenas.customScoreboard.CustomScoreboard
+api-version: '1.21'
